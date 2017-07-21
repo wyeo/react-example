@@ -2,6 +2,6 @@
 
 
 ```
-npm install
+yarn install
 node fuse.js
 ```
